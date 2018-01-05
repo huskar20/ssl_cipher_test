@@ -8,4 +8,3 @@ Usage is:
 ./sslCipherTest.bh [host:port]
 
 
-(Of courser do not forget to make it executable :)
